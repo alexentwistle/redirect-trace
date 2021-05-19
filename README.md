@@ -34,3 +34,5 @@ Output:
 `Complete:  https://www.wikipedia.org/ 200`
 
 
+Conclusion:
+There were two 'hops' in this redirect chain. Both redirects were 301s (permanent redirects).
